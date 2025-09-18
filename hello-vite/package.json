@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^7.1.6"
+  },
+  "dependencies": {
+    "postcss-nested": "^7.0.2",
+    "postcss-nesting": "^13.0.2"
   }
 }
